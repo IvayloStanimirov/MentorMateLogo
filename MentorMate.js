@@ -49,4 +49,4 @@ function MentorMateLogo(n) {
         break
     }
 }
-MentorMateLogo(5)
+MentorMateLogo()
